@@ -118,3 +118,5 @@ Temporary Items
 
 # sphinx
 /build
+
+**/.ipynb_checkpoints/
