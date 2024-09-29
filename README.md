@@ -1,4 +1,4 @@
-This is a fork from datawhalechina/thorough-pytorch
+## This is a fork from datawhalechina/thorough-pytorch. This fork is maintained by [Dr. Zhang](http://zhangys.org.cn). Used for teaching purpose only. 
 
 # 深入浅出PyTorch
 
