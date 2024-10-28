@@ -120,3 +120,19 @@ Temporary Items
 /build
 
 **/.ipynb_checkpoints/
+
+syllabus/
+
+notebook/data/grape
+notebook/data/herb
+notebook/data/fruit
+notebook/data/redflex
+notebook/data/kaggle_fruits_vegetables
+notebook/第五章 神经网络/AE.mp4
+notebook/第五章 神经网络/VAE.mp4
+notebook/第五章 神经网络/Modern PyTorch Techniques for VAEs_ A Comprehensive Tutorial _ Hunter Heidenreich, Machine Learning Engineer.pdf
+notebook/第五章 神经网络/ae.pth
+notebook/第四章 PyTorch基础实战/图像分类/internimage_h_jointto22k_384.pth
+notebook/第四章 PyTorch基础实战/图像分类/mnist_2024100815.pth
+notebook/第四章 PyTorch基础实战/图像分类/van_large_839.pth.tar
+notebook/data/cifar-10-python.tar.gz
