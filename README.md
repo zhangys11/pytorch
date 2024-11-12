@@ -1,5 +1,35 @@
 ## This is a fork from datawhalechina/thorough-pytorch. This fork is maintained by [Dr. Zhang](http://zhangys.org.cn). Used for teaching purpose only. 
 
+# notebook 学习次序
+
+- 第一章：预备知识Numpy
+  - Numpy Basics.ipynb
+- 第二章：PyTorch基础知识
+  - PyTorch基础知识.ipynb - 张量及其运算, 自动求导
+- 第三章：PyTorch机器学习初步
+  - 数据读取.ipynb - DataSet, DataLoader类的构造
+  - linear regression.ipynb - 线性回归，梯度下降
+  - logistic regression.ipynb - 逻辑回归
+  - MLP.ipynb - MLP神经网络
+  - CNN.ipynb - 卷积神经网络
+  - regularization.ipynb - 复杂CNN网络的正则化 kernel_num = (64,64)
+  - Validation & Early Stop.ipynb
+- 第四章：PyTorch基础实战
+  - 图像分类
+    - Image Classification.ipynb - 常见的图像分类深度学习模型
+    - FashionMNIST.ipynb - 图像分类案例-FashionMNIST数据集
+    - Fruits_Vegetables.ipynb - 图像分类案例-kaggle果蔬数据集
+    - Finetuning.ipynb - 迁移学习，模型微调
+    - Finetuning-fruit.ipynb - 迁移学习案例-水果新鲜度数据集
+  - 图像分割
+    - Image Segmentation.ipynb - 常见的图像分割深度学习模型
+  - 表格数据
+    - tabnet.ipynb
+  - 样本生成
+    - text-to-image
+
+
+
 # 深入浅出PyTorch
 
 >[!IMPORTANT]
