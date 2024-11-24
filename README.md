@@ -12,8 +12,9 @@
   - logistic regression.ipynb - 逻辑回归
   - MLP.ipynb - MLP神经网络
   - CNN.ipynb - 卷积神经网络
-  - regularization.ipynb - 复杂CNN网络的正则化 kernel_num = (64,64)
-  - Validation & Early Stop.ipynb
+  - CNN_regularization.ipynb - 正则化 
+  - CNN_Early Stop.ipynb - 验证集，early Stop
+  - LeNet.ipynb, AlexNet.ipyneb - 其他经典CNN
 - 第四章：PyTorch基础实战
   - 图像分类
     - Image Classification.ipynb - 常见的图像分类深度学习模型
